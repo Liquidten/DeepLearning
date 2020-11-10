@@ -16,4 +16,4 @@ Style transfer consists in generating an image with the same "content" as a base
 ![png](pics/porche_at_iterations_200.png)
 
 ![png](pics/TMG_9987.png)
-![png](pics/sunflower_at_iterations_100.png)
+![png](pics/tower_at_iterations_200.png)
